@@ -9,16 +9,16 @@ En este repositorio se pondrá todo el material visto en clase de Estadistíca I
 
 ## Instalación
 
-OS X y Linux:
+Linux:
 
 ```sh
-r_estudio
+http://mirror.fcaglp.unlp.edu.ar/CRAN/
 ```
 
 Windows:
 
 ```sh
-r_estudio
+http://mirror.fcaglp.unlp.edu.ar/CRAN/
 ```
 
 ## Ejemplo de uso
